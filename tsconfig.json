@@ -4,6 +4,7 @@
         "module": "commonjs",
         "outDir": "./lib",
         "declaration": true,
-        "moduleResolution": "node"
+        "moduleResolution": "node",
+        "skipLibCheck": true
     }
 }

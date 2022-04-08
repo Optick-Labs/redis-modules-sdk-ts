@@ -72,6 +72,6 @@
     "typescript": "4.1.2"
   },
   "dependencies": {
-    "ioredis": "4.27.4"
+    "ioredis": "Optick-Labs/ioredis#built"
   }
 }
