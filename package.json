@@ -2,7 +2,7 @@
   "name": "redis-modules-sdk",
   "version": "0.0.1",
   "description": "A Software development kit for easier connection and execution of Redis Modules commands. ",
-  "main": "lib/index.js",
+  "type": "module",
   "types": "lib/index.d.ts",
   "scripts": {
     "build": "tsc",
