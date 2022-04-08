@@ -5,6 +5,7 @@
         "outDir": "./lib",
         "declaration": true,
         "moduleResolution": "node",
-        "skipLibCheck": true
+        "skipLibCheck": true,
+        "esModuleInterop": true
     }
 }
